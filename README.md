@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi people🤖👋 I'm Edwin Hernández👨🏻‍💻
+I'm a Backend Developer out of passion and a physicist by profession🤓.
+ 
 <!--
 **Lidenbrock-ed/Lidenbrock-ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
