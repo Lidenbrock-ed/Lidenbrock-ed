@@ -12,7 +12,7 @@ I'm a Backend Developer out of passion, physicist by profession🤓 and eternal 
 <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
 <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>&nbsp;&nbsp;
-<img alt="Sequelize"src="https://img.shields.io/badge/sequelize-%230167ff.svg?&style=for-the-badge&logo=sequelize&logoColor=black"/>&nbsp;&nbsp;
+<!--<img alt="Sequelize"src="https://img.shields.io/badge/sequelize-%230167ff.svg?&style=for-the-badge&logo=sequelize&logoColor=black"/>&nbsp;&nbsp;
 
 ### 🕹️My Projects
 <!--
