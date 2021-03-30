@@ -1,5 +1,5 @@
 ### Hi people🤖👋 I'm Edwin Hernández👨🏻‍💻
-I'm a Backend Developer out of passion and a physicist by profession🤓.
+I'm a Backend Developer out of passion, physicist by profession🤓 and eternal student by choice!
  ### 🧙🏻‍♂️My Stack of Knowledge🧙🏻‍♂️
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
