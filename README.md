@@ -1,6 +1,6 @@
 # Hi people🤖👋 I'm Edwin Hernández👨🏻‍💻
 I'm a Backend Developer out of passion, physicist by profession🤓 and eternal student by choice!
-![Edwin's github stats](https://github-readme-stats.vercel.app/api?username=Lidenbrock-ed&count_private=true&show_icons=true&theme=dracula)
+![Edwin's github stats](https://github-readme-stats.vercel.app/api?username=Lidenbrock-ed&count_private=true&show_icons=true&theme=radical)
 ### 🧙🏻‍♂️My Stack of Knowledge🧙🏻‍♂️
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
