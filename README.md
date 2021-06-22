@@ -1,6 +1,12 @@
-# Hi people🤖👋 I'm Edwin Hernández👨🏻‍💻
+![Header Lidenbrock-ed](https://github.com/Lidenbrock-ed/Lidenbrock-ed/blob/bdfa9d615fc7d6049b7418abe379eb64089e9649/assets/bannerGitHub.jpg?raw=true)
+# 🤖¡Welcome People!👋👨🏻‍💻
 I'm a Backend Developer out of passion, physicist by profession🤓 and eternal student by choice!
+
+### GitHub Stats
 ![Edwin's github stats](https://github-readme-stats.vercel.app/api?username=Lidenbrock-ed&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lidenbrock-ed&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🧙🏻‍♂️My Stack of Knowledge🧙🏻‍♂️
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
@@ -14,8 +20,8 @@ I'm a Backend Developer out of passion, physicist by profession🤓 and eternal 
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
 <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>&nbsp;&nbsp;
 
-### 🕹️My Projects
 <!--
+### 🕹️My Projects
 **Lidenbrock-ed/Lidenbrock-ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
